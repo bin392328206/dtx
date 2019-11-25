@@ -1,0 +1,110 @@
+2019-11-25 12:55:03,099 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+2019-11-25 12:55:03,940 WARN [main][EndpointId.java:135] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2019-11-25 12:55:04,290 INFO [main][GenericScope.java:294] - BeanFactory id=33c68227-122c-36dd-8028-a36de4f592a4
+2019-11-25 12:55:04,395 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$caf0d808] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-25 12:55:04,815 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 56080 (http)
+2019-11-25 12:55:04,829 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-56080"]
+2019-11-25 12:55:04,841 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2019-11-25 12:55:04,842 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-11-25 12:55:04,853 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\工作软件\java\soft\java_jdk\jdk1.8.0_181\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\工作软件\java\soft\java_jdk\jdk1.8.0_181\bin;D:\工作软件\java\soft\Maven\soft\apache-maven-3.5.4\bin;D:\工作软件\java\soft\git\soft\Git\cmd;D:\工作软件\java\soft\git\soft2\bin;D:\工作软件\前端\node.js\soft\;C:\Program Files\MongoDB\Server\3.2\bin;C:\Go\bin;"E:\hadoop-2.7.7\bin;E:\hadoop-2.7.7\sbin";D:\工作软件\java\soft\scala\bin;D:\工作软件\python\py\soft\Scripts\;D:\工作软件\python\py\soft\;C:\Users\MACHENIKE\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\工作软件\前端\soft\Microsoft VS Code\bin;C:\Users\MACHENIKE\AppData\Roaming\npm;D:\工作软件\测试\fiddler\soft\Fiddler;C:\Users\MACHENIKE\go\bin;C:\Users\MACHENIKE\AppData\Local\GitHubDesktop\bin;C:\Users\MACHENIKE\AppData\Local\BypassRuntm;.]
+2019-11-25 12:55:05,060 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2019-11-25 12:55:05,061 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 1944 ms
+2019-11-25 12:55:05,186 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2019-11-25 12:55:05,187 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-11-25 12:55:05,205 INFO [main][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@681061d6
+2019-11-25 12:55:06,833 INFO [main][WebApplicationImpl.java:815] - Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2019-11-25 12:55:06,944 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+2019-11-25 12:55:06,945 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+2019-11-25 12:55:07,129 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+2019-11-25 12:55:07,130 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+2019-11-25 12:55:07,766 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2019-11-25 12:55:07,766 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-11-25 12:55:08,063 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-25 12:55:09,366 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+2019-11-25 12:55:09,452 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+2019-11-25 12:55:09,452 INFO [main][DiscoveryClient.java:352] - Client configured to neither register nor query for data.
+2019-11-25 12:55:09,475 INFO [main][DiscoveryClient.java:365] - Discovery Client initialized at timestamp 1574657709472 with initial instances count: 0
+2019-11-25 12:55:09,580 INFO [main][DefaultEurekaServerContext.java:63] - Initializing ...
+2019-11-25 12:55:09,587 INFO [main][PeerEurekaNodes.java:188] - Adding new peer nodes [http://localhost:56080/eureka/]
+2019-11-25 12:55:10,355 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+2019-11-25 12:55:10,356 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+2019-11-25 12:55:10,356 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+2019-11-25 12:55:10,356 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+2019-11-25 12:55:10,557 INFO [main][PeerEurekaNodes.java:110] - Replica node URL:  http://localhost:56080/eureka/
+2019-11-25 12:55:10,569 INFO [main][AbstractInstanceRegistry.java:151] - Finished initializing remote region registries. All known remote regions: []
+2019-11-25 12:55:10,570 INFO [main][DefaultEurekaServerContext.java:70] - Initialized
+2019-11-25 12:55:10,584 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-11-25 12:55:10,700 INFO [main][EurekaServiceRegistry.java:42] - Registering application SEATA-DEMO-DISCOVERY with eureka with status UP
+2019-11-25 12:55:10,705 INFO [Thread-31][EurekaServerBootstrap.java:109] - Setting the eureka configuration..
+2019-11-25 12:55:10,706 INFO [Thread-31][EurekaServerBootstrap.java:114] - Eureka data center value eureka.datacenter is not set, defaulting to default
+2019-11-25 12:55:10,707 INFO [Thread-31][EurekaServerBootstrap.java:128] - Eureka environment value eureka.environment is not set, defaulting to test
+2019-11-25 12:55:10,729 INFO [Thread-31][EurekaServerBootstrap.java:184] - isAws returned false
+2019-11-25 12:55:10,729 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-56080"]
+2019-11-25 12:55:10,730 INFO [Thread-31][EurekaServerBootstrap.java:152] - Initialized server context
+2019-11-25 12:55:10,730 INFO [Thread-31][PeerAwareInstanceRegistryImpl.java:241] - Got 1 instances from neighboring DS node
+2019-11-25 12:55:10,730 INFO [Thread-31][PeerAwareInstanceRegistryImpl.java:242] - Renew threshold is: 1
+2019-11-25 12:55:10,731 INFO [Thread-31][PeerAwareInstanceRegistryImpl.java:253] - Changing status to UP
+2019-11-25 12:55:10,745 INFO [Thread-31][EurekaServerInitializerConfiguration.java:72] - Started Eureka Server
+2019-11-25 12:55:10,772 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 56080 (http) with context path ''
+2019-11-25 12:55:10,774 INFO [main][EurekaAutoServiceRegistration.java:141] - Updating port to 56080
+2019-11-25 12:55:10,777 INFO [main][StartupInfoLogger.java:59] - Started DiscoveryServer in 10.025 seconds (JVM running for 11.683)
+2019-11-25 12:55:11,040 INFO [RMI TCP Connection(5)-10.0.115.224][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-25 12:55:11,040 INFO [RMI TCP Connection(5)-10.0.115.224][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+2019-11-25 12:55:11,051 INFO [RMI TCP Connection(5)-10.0.115.224][FrameworkServlet.java:546] - Completed initialization in 11 ms
+2019-11-25 12:55:19,111 INFO [http-nio-56080-exec-2][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 with status UP (replication=false)
+2019-11-25 12:55:19,752 INFO [http-nio-56080-exec-3][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 with status UP (replication=true)
+2019-11-25 12:55:20,349 INFO [http-nio-56080-exec-5][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status UP (replication=false)
+2019-11-25 12:55:20,732 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:55:20,862 INFO [http-nio-56080-exec-6][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status UP (replication=true)
+2019-11-25 12:55:30,733 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:55:40,734 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+2019-11-25 12:55:50,735 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:56:00,735 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:56:10,736 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:56:20,737 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:56:20,737 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:611] - Evicting 1 items (expired=1, evictionLimit=1)
+2019-11-25 12:56:20,737 WARN [Eureka-EvictionTimer][AbstractInstanceRegistry.java:623] - DS: Registry: expired lease for SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082
+2019-11-25 12:56:20,738 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:330] - Cancelled instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 (replication=false)
+2019-11-25 12:56:24,837 WARN [http-nio-56080-exec-9][AbstractInstanceRegistry.java:353] - DS: Registry: lease doesn't exist, registering resource: SEATA-DEMO-BANK2 - seata-demo-bank2:10.0.115.224:56082
+2019-11-25 12:56:24,838 WARN [http-nio-56080-exec-9][InstanceResource.java:116] - Not Found (Renew): SEATA-DEMO-BANK2 - seata-demo-bank2:10.0.115.224:56082
+2019-11-25 12:56:24,849 INFO [http-nio-56080-exec-2][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status UP (replication=false)
+2019-11-25 12:56:24,967 INFO [http-nio-56080-exec-1][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status UP (replication=true)
+2019-11-25 12:56:30,738 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:56:40,738 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:56:50,738 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:57:00,739 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:57:10,739 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:57:20,739 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:57:22,662 INFO [http-nio-56080-exec-10][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 with status DOWN (replication=false)
+2019-11-25 12:57:23,174 INFO [http-nio-56080-exec-8][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 with status DOWN (replication=true)
+2019-11-25 12:57:24,525 INFO [http-nio-56080-exec-9][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status DOWN (replication=false)
+2019-11-25 12:57:25,035 INFO [http-nio-56080-exec-4][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status DOWN (replication=true)
+2019-11-25 12:57:25,711 INFO [http-nio-56080-exec-5][AbstractInstanceRegistry.java:330] - Cancelled instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 (replication=false)
+2019-11-25 12:57:26,220 WARN [http-nio-56080-exec-8][AbstractInstanceRegistry.java:315] - DS: Registry: cancel failed because Lease is not registered for: SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081
+2019-11-25 12:57:26,220 INFO [http-nio-56080-exec-8][InstanceResource.java:288] - Not Found (Cancel): SEATA-DEMO-BANK1 - seata-demo-bank1:10.0.115.224:56081
+2019-11-25 12:57:26,221 WARN [TaskBatchingWorker-target_localhost-4][ReplicationTask.java:35] - The replication of task SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081:Cancel@localhost failed with response code 404
+2019-11-25 12:57:26,222 WARN [TaskBatchingWorker-target_localhost-4][PeerEurekaNode.java:171] - SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081:Cancel@localhost: missing entry.
+2019-11-25 12:57:27,562 INFO [http-nio-56080-exec-2][AbstractInstanceRegistry.java:330] - Cancelled instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 (replication=false)
+2019-11-25 12:57:28,066 WARN [http-nio-56080-exec-6][AbstractInstanceRegistry.java:315] - DS: Registry: cancel failed because Lease is not registered for: SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082
+2019-11-25 12:57:28,066 INFO [http-nio-56080-exec-6][InstanceResource.java:288] - Not Found (Cancel): SEATA-DEMO-BANK2 - seata-demo-bank2:10.0.115.224:56082
+2019-11-25 12:57:28,067 WARN [TaskBatchingWorker-target_localhost-4][ReplicationTask.java:35] - The replication of task SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082:Cancel@localhost failed with response code 404
+2019-11-25 12:57:28,068 WARN [TaskBatchingWorker-target_localhost-4][PeerEurekaNode.java:171] - SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082:Cancel@localhost: missing entry.
+2019-11-25 12:57:30,740 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:57:40,740 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:57:50,741 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:58:00,741 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:58:10,741 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:58:20,741 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:58:30,742 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:58:40,742 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:58:45,186 INFO [http-nio-56080-exec-5][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status UP (replication=false)
+2019-11-25 12:58:45,701 INFO [http-nio-56080-exec-7][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK2/seata-demo-bank2:10.0.115.224:56082 with status UP (replication=true)
+2019-11-25 12:58:48,886 INFO [http-nio-56080-exec-8][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 with status UP (replication=false)
+2019-11-25 12:58:49,399 INFO [http-nio-56080-exec-2][AbstractInstanceRegistry.java:266] - Registered instance SEATA-DEMO-BANK1/seata-demo-bank1:10.0.115.224:56081 with status UP (replication=true)
+2019-11-25 12:58:50,742 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:59:00,742 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:59:10,743 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:59:20,743 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:59:30,744 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:59:40,744 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2019-11-25 12:59:50,745 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms

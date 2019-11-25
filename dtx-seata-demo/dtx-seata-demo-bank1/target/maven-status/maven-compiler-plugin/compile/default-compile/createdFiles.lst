@@ -1,0 +1,9 @@
+cn\itcast\dtx\seatademo\bank1\spring\Bank2ClientFallback.class
+cn\itcast\dtx\seatademo\bank1\controller\Bank1Controller.class
+cn\itcast\dtx\seatademo\bank1\config\DatabaseConfiguration.class
+cn\itcast\dtx\seatademo\bank1\service\AccountInfoService.class
+cn\itcast\dtx\seatademo\bank1\dao\AccountInfoDao.class
+cn\itcast\dtx\seatademo\bank1\Bank1Server.class
+cn\itcast\dtx\seatademo\bank1\entity\AccountInfo.class
+cn\itcast\dtx\seatademo\bank1\service\impl\AccountInfoServiceImpl.class
+cn\itcast\dtx\seatademo\bank1\spring\Bank2Client.class

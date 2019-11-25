@@ -1,0 +1,9 @@
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\config\DatabaseConfiguration.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\Bank1Server.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\dao\AccountInfoDao.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\spring\Bank2Client.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\service\impl\AccountInfoServiceImpl.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\service\AccountInfoService.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\controller\Bank1Controller.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\entity\AccountInfo.java
+F:\websocket\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\spring\Bank2ClientFallback.java
